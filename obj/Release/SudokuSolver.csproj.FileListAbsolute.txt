@@ -1,0 +1,13 @@
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.exe.config
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.exe
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.pdb
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.Logic.dll
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.Validators.dll
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.Logic.pdb
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.Validators.pdb
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.Form1.resources
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.Properties.Resources.resources
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.exe
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.pdb

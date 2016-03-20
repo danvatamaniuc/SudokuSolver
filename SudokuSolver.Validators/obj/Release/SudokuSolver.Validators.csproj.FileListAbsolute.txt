@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Validators\bin\Release\SudokuSolver.Validators.dll
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Validators\bin\Release\SudokuSolver.Validators.pdb
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Validators\obj\Release\SudokuSolver.Validators.dll
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Validators\obj\Release\SudokuSolver.Validators.pdb
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Validators\obj\Release\SudokuSolver.Validators.csprojResolveAssemblyReference.cache

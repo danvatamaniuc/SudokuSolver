@@ -1,0 +1,10 @@
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\bin\Debug\SudokuSolver.LogicTests.dll
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\bin\Debug\SudokuSolver.LogicTests.pdb
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\bin\Debug\SudokuSolver.Logic.dll
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\bin\Debug\SudokuSolver.Validators.dll
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\bin\Debug\SudokuSolver.Logic.pdb
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\bin\Debug\SudokuSolver.Validators.pdb
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\obj\Debug\SudokuSolver.LogicTests.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\obj\Debug\SudokuSolver.LogicTests.dll
+C:\Users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.LogicTests\obj\Debug\SudokuSolver.LogicTests.pdb

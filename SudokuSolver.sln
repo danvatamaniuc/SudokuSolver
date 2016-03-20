@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver", "SudokuSolver\SudokuSolver.csproj", "{8A965C30-D6EB-4634-AA20-46B9DEE0C19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver.Validators", "SudokuSolver.Validators\SudokuSolver.Validators.csproj", "{D356D982-720B-41ED-8B8C-8AC40762540F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver.Logic", "SudokuSolver.Logic\SudokuSolver.Logic.csproj", "{8E5240C1-627D-4EC9-ADF0-E3C3D7611098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver.LogicTests", "SudokuSolver.LogicTests\SudokuSolver.LogicTests.csproj", "{460D2003-FCE5-484F-9F9B-30AACF731E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A965C30-D6EB-4634-AA20-46B9DEE0C19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A965C30-D6EB-4634-AA20-46B9DEE0C19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A965C30-D6EB-4634-AA20-46B9DEE0C19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A965C30-D6EB-4634-AA20-46B9DEE0C19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D356D982-720B-41ED-8B8C-8AC40762540F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D356D982-720B-41ED-8B8C-8AC40762540F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D356D982-720B-41ED-8B8C-8AC40762540F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D356D982-720B-41ED-8B8C-8AC40762540F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5240C1-627D-4EC9-ADF0-E3C3D7611098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5240C1-627D-4EC9-ADF0-E3C3D7611098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5240C1-627D-4EC9-ADF0-E3C3D7611098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5240C1-627D-4EC9-ADF0-E3C3D7611098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460D2003-FCE5-484F-9F9B-30AACF731E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460D2003-FCE5-484F-9F9B-30AACF731E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460D2003-FCE5-484F-9F9B-30AACF731E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460D2003-FCE5-484F-9F9B-30AACF731E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

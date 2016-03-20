@@ -1,0 +1,7 @@
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Logic\bin\Debug\SudokuSolver.Logic.dll
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Logic\bin\Debug\SudokuSolver.Logic.pdb
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Logic\bin\Debug\SudokuSolver.Validators.dll
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Logic\bin\Debug\SudokuSolver.Validators.pdb
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Logic\obj\Debug\SudokuSolver.Logic.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Logic\obj\Debug\SudokuSolver.Logic.dll
+c:\users\1\documents\visual studio 2015\Projects\SudokuSolver\SudokuSolver.Logic\obj\Debug\SudokuSolver.Logic.pdb
